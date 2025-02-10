@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Tienda de Hot Wheels</title>
     <style>
+<script src="//code.tidio.co/dua4jkwxomeij5rdv0dhjzpyowjoqpyi.js" async></script>
         body {
             font-family: Arial, sans-serif;
             margin: 0;
@@ -136,6 +137,6 @@
     <footer>
         <p>&copy; 2025 Tienda de Hot Wheels. Todos los derechos reservados.</p>
     </footer>
-
+<script src="//code.tidio.co/dua4jkwxomeij5rdv0dhjzpyowjoqpyi.js" async></script>
 </body>
 </html>
